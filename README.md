@@ -6,7 +6,6 @@
 <p align="center">
 
 </p>
----
 
 #### 🛠 &nbsp; Languages and Tools I worked with:
 
